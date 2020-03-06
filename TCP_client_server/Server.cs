@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace TCP_client_server
 {
+    // Simulates REST server in TCP
     class Server
     {
         public static void Listen()
